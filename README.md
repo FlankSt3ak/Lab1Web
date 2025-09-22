@@ -19,13 +19,13 @@ Saya menambahkan judul dengan tag heading `<h1>`, `<h2>`, dan `<h3>` sesuai ting
 ### 4. Memformat Teks
 Saya melakukan pemformatan teks dengan beberapa tag:
 
-<b> → tebal
+`<b>` → tebal
 
-<i> → miring
+`<i>` → miring
 
-<u> → garis bawah
+`<u>` → garis bawah
 
-<mark> → highlight
+`<mark>` → highlight
 ![Screenshoot 5](Screenshoot_Lab1Web/ss5.png)
 
 ### 5. Menyisipkan Gambar
