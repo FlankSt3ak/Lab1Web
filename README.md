@@ -13,7 +13,7 @@ Saya menambahkan paragraf dengan tag `<p>`. Paragraf digunakan untuk menuliskan 
 ![Screenshoot 3](Screenshoot_Lab1Web/ss3.png)
 
 ### 3. Menambahkan Judul Paragraf
-Saya menambahkan judul dengan tag heading `<h1>`, `<h2>`, dan `<h3>` sesuai tingkat kepentingan.
+Saya menambahkan judul dengan tag heading `<h1>`, dan `<h2>` sesuai tingkat kepentingan.
 ![Screenshoot 4](Screenshoot_Lab1Web/ss4.png)
 
 ### 4. Memformat Teks
