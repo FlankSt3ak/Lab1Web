@@ -33,6 +33,6 @@ Saya menambahkan gambar menggunakan tag <img> dengan atribut src, dan mengatur u
 ![Screenshoot 6](Screenshoot_Lab1Web/ss6.png)
 ![Screenshoot 7](Screenshoot_Lab1Web/ss7.png)
 
-### Menambahkan Hyperlink
+### 6. Menambahkan Hyperlink
 Saya menambahkan navigasi dengan tag <a> untuk membuat hyperlink, baik menuju halaman lain di repo maupun ke web eksternal.
 ![Screenshoot 8](Screenshoot_Lab1Web/ss8.png)
